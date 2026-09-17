@@ -4,6 +4,7 @@
 
 # Calib folder
 /calib-camera/images
+/calib-camera/ray-tracing/images
 
 # Models folder
 /models/datasets/
